@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "first_name": "John",
+    "last_name": "Doe",
+    "email": "john.doe@example.com",
+    "alternate_email": "johnd@gmail.com",
+    "age": 30
+  },
+  {
+    "id": 2,
+    "first_name": "Jane",
+    "last_name": "Smith",
+    "email": "jane.smith@example.com",
+    "age": 28
+  },
+  {
+    "id": 3,
+    "first_name": "Bob",
+    "last_name": "Johnson",
+    "email": "bob.johnson@example.com",
+    "alternate_email": "bobbyjohn@hotmail.com",
+    "age": 35111
+  },
+  {
+    "id": 4,
+    "first_name": "Alicea",
+    "last_name": "Williamsa",
+    "email": "alice.williams@example.com",
+    "age": 271
+  },
+  {
+    "id": 5,
+    "first_name": "Charlie",
+    "last_name": "Brown",
+    "email": "charlie.brown@example.com",
+    "alternate_email": "charlieb@yahoo.com",
+    "age": 32
+  },
+  {
+    "id": 6,
+    "first_name": "Eva",
+    "last_name": "Davis",
+    "email": "eva.davis@example.com",
+    "age": 29
+  },
+  {
+    "id": 1721363496702,
+    "first_name": "file1",
+    "last_name": "fil2",
+    "email": "fil@gmail.com",
+    "alternate_email": "fill@gmail.com",
+    "password": "$2a$08$9yyGyPE7U31wZH.YZPl6ke0sz4Oj563SovcLjwJy5K1QPLrCM3Yaa",
+    "age": 18
+  }
+]
